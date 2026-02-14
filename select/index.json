@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "心眼",
+  "base_artist": "Lanndo",
+  "createdAt": "2026-02-14T14:16:36.476196Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "心眼 feat. 須田景凪",
+      "artist": "Lanndo feat. 須田景凪",
+      "has_synced": true,
+      "path": "select/01_心眼_feat._須田景凪_Lanndo_feat._須田景凪.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "心眼 (劇集《踩過界》主題曲)",
+      "artist": "王浩信",
+      "has_synced": true,
+      "path": "select/02_心眼_(劇集《踩過界》主題曲)_王浩信.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "心眼 (劇集《踩過界》主題曲）",
+      "artist": "Vincent Wong 王浩信",
+      "has_synced": true,
+      "path": "select/03_心眼_(劇集《踩過界》主題曲)_Vincent_Wong_王浩信.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "心眼",
+      "artist": "Lanndo feat. 須田景凪",
+      "has_synced": true,
+      "path": "select/04_心眼_Lanndo_feat._須田景凪.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "心眼 - 劇集 “踩過界” 主題曲",
+      "artist": "Vincent Wong",
+      "has_synced": true,
+      "path": "select/05_心眼_-_劇集_“踩過界”_主題曲_Vincent_Wong.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "心眼",
+      "artist": "王浩信",
+      "has_synced": true,
+      "path": "select/06_心眼_王浩信.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "心眼 feat. 須田景凪",
+      "artist": "Lanndo",
+      "has_synced": true,
+      "path": "select/07_心眼_feat._須田景凪_Lanndo.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "心眼",
+      "artist": "Lanndo",
+      "has_synced": true,
+      "path": "select/08_心眼_Lanndo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "心眼 (feat. 須田景凪)",
+      "artist": "Lanndo, 須田景凪",
+      "has_synced": false,
+      "path": "select/pl_01_心眼_(feat._須田景凪)_Lanndo,_須田景凪.txt"
+    }
+  ]
+}
